@@ -1,0 +1,18 @@
+{
+  "name": "fcc-whoami",
+  "version": "1.0.0",
+  "description": "FCC Request Header Parser",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node server.js"
+  },
+  "author": "tom pacheco",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pachecot/fcc.whoami.git"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
